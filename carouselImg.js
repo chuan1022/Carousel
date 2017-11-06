@@ -15,6 +15,7 @@
  * 		loop为false时，自动播放到尾部时，会先运动到头部；
  * 		
  * */
+//提交111
 ;(function(window,undefined){
 	var Carousel=function(){
 		//默认参数，功能分析
